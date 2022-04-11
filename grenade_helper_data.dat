@@ -1,0 +1,511 @@
+de_cbble,CT Spawn to B Long,jump,smokegrenade,-2479.695068,-1913.139771,20.91993,-28.346941,37.037228
+de_cbble,Alley to Balcony,stand,smokegrenade,-2991.96875,-787.961731,16.534187,-26.549746,-35.08456
+de_cbble,Middle to B Long,jump,smokegrenade,-1565.991821,1091.941406,64.093811,-45.771,-44.687805
+de_cbble,Middle to Bombsite B,jump,smokegrenade,-1566.001343,1091.941406,64.093811,-41.761398,-44.687687
+de_cbble,Mid Plateau to Terrace,jump,smokegrenade,-1566.001099,1091.941406,64.093811,-34.303406,-32.843147
+de_cbble,B Long to B Long / Terrace boxes,jump,smokegrenade,-703.96875,-335.96875,-27.910431,-15.278869,25.283163
+de_cbble,CT Ramp to Balcony,jump,smokegrenade,-2534.005371,-272.03125,-184.407272,-17.127037,-65.392319
+de_cbble,Balcony to A Long,stand,smokegrenade,-1864.96875,-1611.96875,96.093811,-11.221231,136.023499
+de_cbble,B Door to B Long,run,smokegrenade,-823.96875,-1055.96875,-124.076149,-16.781809,34.054077
+de_cbble,Connector to B Long,jump,smokegrenade,-1540.973389,-1226.978027,-25.199188,-50.672855,41.294445
+de_cbble,Electric to B Long,stand,smokegrenade,-399.96875,-760.03125,-95.604759,-15.114135,32.888721
+de_cbble,A Long to Hay,stand,smokegrenade,-3471.96875,-655.96875,32.093811,-17.325163,44.563553
+de_cbble,Halls to B Door,stand,smokegrenade,-558.03125,-42.535999,0.093811000000002,-62.173512,-100.720726
+de_cbble,Hay to A Door,stand,smokegrenade,-3346.178711,455.572449,0.093811000000002,-40.32724,-45.610413
+de_cbble,Hay to Grassy,stand,smokegrenade,-3167.270508,584.68512,0.093811000000002,-55.144222,-61.434193
+de_cbble,A Long to GSG (Front),stand,smokegrenade,-3295.975586,79.96875,-29.906189,-36.680634,-52.524323
+de_cbble,A Long to GSG (Site side),stand,smokegrenade,-3168.03125,79.96875,-29.906189,-47.158157,-65.556221
+de_cbble,A Long to GSG (Storage side),stand,smokegrenade,-3295.975586,79.96875,-29.906189,-36.664104,-50.392738
+de_cbble,Hay to Storage,stand,smokegrenade,-3330.79126,486.347137,0.093811000000002,-39.484535,-50.469841
+de_cbble,B Long to B Door,stand,smokegrenade,-339.98996,-80.03125,-31.906189,-61.379925,-112.67469
+de_cbble,B Long to Hut,stand,smokegrenade,-340.020111,-80.03125,-31.907467,-53.921837,-52.166801
+de_cbble,B Long to Hut,stand,smokegrenade,-155.970673,-16.010778,-31.906189,-50.869473,-69.63755
+de_cbble,B Long to Hut,stand,smokegrenade,-340.028198,-80.013443,-31.906189,-41.414818,-54.226635
+de_cbble,B Long to Boost,stand,smokegrenade,47.96875,-16.03125,-23.114716,-81.378204,-89.289169
+de_cbble,T Spawn to B Long,stand,smokegrenade,-288.03125,1020.97052,128.093811,-51.547066,-53.167721
+de_cbble,T Spawn to Boost,stand,smokegrenade,-288.101501,1021.120483,128.093811,-58.757492,-80.326363
+de_cbble,Skyfall (Upper) to Skyfall,stand,smokegrenade,-752.03125,-80.03125,128.093811,5.361639,-119.332336
+de_cbble,B Long to Boost,stand,smokegrenade,-354.614044,-239.96875,-31.914421,-79.035889,-11.570914
+de_cbble,B Main to Site,stand,smokegrenade,-703.96875,-80.710037,-28.92395,-60.028107,-54.990608
+de_cbble,B Main to Bombsite B,stand,smokegrenade,-418.514893,-95.749924,-32.562836,-75.323563,-61.343159
+de_cbble,B Main to Bombsite B,stand,smokegrenade,-155.978851,-16.03125,-31.906189,-69.532074,-81.473053
+de_cbble,B Long to Electric,stand,smokegrenade,-340.002045,-80.008286,-31.906189,-77.220078,-115.603859
+de_cbble,Garden to Terrace boxes,stand,smokegrenade,116.094803,1043.494507,44.676018,-58.310825,-75.495697
+de_cbble,B Long to Short,stand,smokegrenade,-340.009552,-80.006195,-31.906189,-52.99807,-64.715561
+de_cbble,B Long to Hut (Inside),stand,smokegrenade,-340.020142,-80.03125,-31.906189,-45.127613,-60.174595
+de_cbble,Grassy to CT Ramp,stand,flashbang,-2587.859863,-589.567139,26.807899,-50.110405,-70.796562
+de_cbble,Bombsite B to B Long,stand,flashbang,805.877014,-981.467834,-97.384857,-23.479338,124.322365
+de_cbble,Terrace stairs to B Long,stand,flashbang,751.96875,-511.389893,-65.751923,-23.726938,150.683289
+de_cbble,Rock to B Long,stand,flashbang,-435.610718,-876.408997,-107.025925,-19.502989,39.250854
+de_cbble,Barrels to Alley,stand,flashbang,-2907.962402,-1976.022705,143.093811,-8.300402,94.145882
+de_cbble,Halls to Skyfall,stand,flashbang,-780.03125,111.931717,128.093811,-4.7685,-92.1838
+de_cbble,Catwalk to Hay,jump,flashbang,-2863.96875,560.03125,0.093811000000002,-16.071022,-13.690392
+de_cbble,Halls to Skyfall,stand,flashbang,-590.995239,434.631622,-0.906189,-17.854057,-108.593758
+de_cbble,B Door to B Long,run,molotovgrenade,-823.96875,-1055.96875,-124.076149,-16.74758,34.056389
+de_cbble,Barrels to Alley,stand,molotovgrenade,-2907.962402,-1976.022705,143.093811,-8.300402,94.145882
+de_cbble,Alley to Balcony,run,molotovgrenade,-2989.96875,-944.036682,32.093811,-15.675012,-32.634476
+de_cbble,Alley to A Door,run,molotovgrenade,-2989.96875,-944.371948,32.093811,-12.160514,-4.402364
+de_cbble,Alley to Storage,stand,molotovgrenade,-2989.96875,-944.008972,32.093811,-11.681991,-13.595568
+de_cbble,CT Ramp to Hidden,run,molotovgrenade,-2405.378906,-599.939148,-83.420113,-20.048418,-104.975105
+de_cbble,B Long to Boost,stand,molotovgrenade,47.96875,-16.03125,-23.114716,-32.770023,-124.881889
+de_cbble,B long to Terrace,stand,molotovgrenade,-504.03125,-264.606079,-32.770229,-11.51805,9.807708
+de_cbble,Sidewalk to Straw,stand,molotovgrenade,-2688.03125,719.96875,0.093811000000002,-40.721817,-119.006012
+de_mirage,A Alley to CT,jump,smokegrenade,936.04,-1032.01,-257.94743896484,-12.78,-143.92
+de_mirage,T Roof to Middle of Boxes in A,stand,smokegrenade,875.969,-1209.69,-108.9062,-21.6513,-149.336
+de_mirage,T Roof to A Stairs,stand,smokegrenade,1148.4,-1183.96,-205.57,-43.1838,-165.255
+de_mirage,T Roof to Jungle,stand,smokegrenade,815.969,-1457.4,-108.9062,-26.9191,-174.367
+de_mirage,Window (Oneway),stand,smokegrenade,-1209.08,-873.271,-167.906,-48.214,66.405
+de_mirage,Alley to B Site,stand,smokegrenade,-292.957,651.055,-79.9062,-38.3833,-168.915
+de_mirage,Back of Top Mid to Short,stand,smokegrenade,399.969,-17.062,-199.764,-47.0854,-174.254
+de_mirage,T Spawn to Connector,jump,smokegrenade,1135.97,647.976,-261.329,-28.5658,-140.282
+de_mirage,Alley to B Short,stand,smokegrenade,-160.031,887.976,-135.2657,-44.5582,-134.517
+de_mirage,Alley to Kitchen Window,stand,smokegrenade,-784.941,623.014,-75.9062,-62.6446,-155.417
+de_mirage,Alley to Back of B Site,stand,smokegrenade,-759.412,623.969,-75.9062,-56.9029,-158.115
+de_mirage,Alley to Bench,stand,smokegrenade,-539.649,520.031,-81.2567,-41.707,-178.889
+de_mirage,Short to A Palace,jump,smokegrenade,-903.969,-376.031,-158.426,-17.0263,-60.0659
+de_mirage,Back of Top Mid to Connector,stand,smokegrenade,398.969,174.526,-248.867,-47.1339,-136.79
+de_mirage,A Palace to Balcony,stand,flashbang,367.969,-2207.2,-39.9062,-9.94947,-131.947
+de_mirage,Sandwich to Jungle-Connector,jump,smokegrenade,-261.389,-1546.36,-167.906,-41.1821,-7.27481
+de_mirage,B Aps to Kitchen Window,jump,hegrenade,-1952.03,691.415,-47.9062,14.4959,-87.3997
+de_mirage,B Balcony to Kitchen Window,jump,molotovgrenade,-1952.03,651.29,-27.9062,20.9503,-87.132
+de_mirage,Under Balcony to A Palace,run,molotovgrenade,150.968964,-2071.96875,-167.96875,-32.7864,101.522
+de_mirage,T Roof to Sandwich,stand,molotovgrenade,831.991,-1255.97,-108.9062,-19.8574,-165.016
+de_mirage,Window to Underpass,stand,molotovgrenade,-1183.97,-456.031,-167.906,6.76069,-69.7633
+de_mirage,Mid to Sniper's Nest,stand,smokegrenade,360.08,-691.97,-162.5,-32.53,178.61
+de_mirage,CT to Mid,stand,flashbang,-1668.9,-1092.42,-187.97,-47.33,23.46
+de_mirage,Alley to B Default,jump,smokegrenade,-152.12,353.03,-34.86,-47.58,178.95
+de_mirage,Alley to Market Window,jump,smokegrenade,-160.03,887.97,-135.33,-50.38,-146.49
+de_mirage,Alley to Market Door,jump,smokegrenade,-160.03,887.97,-135.33,-45.01,-152.88
+de_mirage,Connector to Underpass,run,smokegrenade,-807.97,-1235.97,-167.97,6.94,48.2
+de_mirage,A Palace to Under Balcony,stand,molotovgrenade,16.03,-2359.99,-39.97,9.71,73.4
+de_mirage,Under Balcony to A Ramp,stand,flashbang,151,-1914.02,-167.97,-0.8,-161.85
+de_mirage,Under Balcony to A Ramp (Popflash),stand,flashbang,150.99,-1914.03,-167.97,-38.94,-104.34
+de_mirage,Under Balcony to A Ramp,stand,flashbang,-44.65,-1922.03,-167.97,-13.1,104.1
+de_mirage,Balcony to A Palace,run,flashbang,150.97,-2071.97,-37.97,-13.56,104.33
+de_mirage,Short to Mid,jump,flashbang,-752.03,-52.43,-161.88,-52.99,-84.4
+de_mirage,Truck to B Apartments,stand,flashbang,-2114.03,706.46,-134.96,-1.55,173
+de_mirage,Top Mid to Window,run,flashbang,188.57,-53.5,-180.21,-5.95,89.9
+de_mirage,B Apartments to B Truck,run,flashbang,-1165.97,568.98,-79.97,-3.57,-80.9
+de_mirage,A Stairs to A Ramp,jump,smokegrenade,-552.37,-1309.03,-163.97,-77.32,-17.64
+de_mirage,Mid to Short,stand,smokegrenade,360.06,-691.98,-162.49,-26.5,162.36
+de_mirage,T Roof to Short,jump,smokegrenade,1148.4,-1183.96,-205.57,-32.25,153.79
+de_mirage,Alley to Balcony,stand,smokegrenade,-595.42,520.07,-83.03,-50.2,171.48
+de_mirage,Alley to Window,stand,smokegrenade,-367.84,684.95,-79.907438964844,-38.97,-117.54
+de_mirage,B Site to Kitchen (Oneway),stand,smokegrenade,-1872.54,-247.97,-163.90743896484,15.7,-141.92
+de_mirage,Triple Boxes to Stairs,stand,smokegrenade,-253.97,-2134.08,-172.88743896484,-77.17,113.32
+de_mirage,Tunnel to Short,stand,smokegrenade,-1047.97,-314.01,-367.97,-44.86,-74.22
+de_mirage,Tunnel to A Site,stand,smokegrenade,-972.03,-374.03,-348.95,-57.62,-76.11
+de_mirage,Jungle to A Ramp,stand,smokegrenade,-1119.97,-1527.04,-156.01743896484,-12.79,-0.66
+de_mirage,A Alley to A Site (Popflash),stand,flashbang,743.97,-1719.28,-249.58,-5.38,176.14
+de_mirage,CT to A Ramp,jump,smokegrenade,-1710.97,-1489.33,-257.91,-56.86,-1.2
+de_mirage,CT to B Site,jump,smokegrenade,-2026.36,-2029.97,-299.06743896484,-29.43,86.93
+de_mirage,CT to B Default,jump,smokegrenade,-2031.97,-1957.02,-300.43,-37.83,88.81
+de_mirage,Mid to Tetris,jump,smokegrenade,-1071.97,-380.03,-263.97,-28.04,-50.06
+de_mirage,Tetris to Stairs,jump,smokegrenade,-91.09,-1418.03,-115.97,-31.76,-62.54
+de_mirage,A Stairs to A Site,stand,flashbang,-496.03,-1309.03,-159.97,-60.07,-77.06
+de_mirage,T Spawn to Window,duck,smokegrenade,1422.99,-248.01,-167.97,-44.77,-172.58
+de_mirage,T Spawn to Short,jump,smokegrenade,1135.99,647.97,-261.39,-43.86,-156.65
+de_mirage,T Spawn to Window,duck,smokegrenade,1422.99,34.83,-167.97,-26.16,-166.36
+de_mirage,T Spawn to B Arch,jump,smokegrenade,496.03,679.97,-135.97,-45.7,-165.33
+de_mirage,CT Spawn to Alley,jump,smokegrenade,-1710.97,-1208.03,-255.08,-48.81,67.43
+de_mirage,A Alley to Jungle,jump,smokegrenade,1239.97,-1159.97,-246.27,-48.66,-173.19
+de_mirage,A Alley to Window,jump,smokegrenade,1127.98,-1208,-108.97,-26.37,166.51
+de_mirage,T Spawn to B Site,jump,smokegrenade,1398.97,-1255.97,-167.97,-32.29,159.6
+de_mirage,T Spawn to B Default,jump,smokegrenade,1398.97,-1255.97,-167.97,-20.43,149.87
+de_mirage,CT Spawn to Palace,jump,smokegrenade,-1711.97,-761.03,-167.97,-32.66,-38.86
+de_mirage,T Spawn to Balcony,jump,smokegrenade,1422.99,-248.01,-185.97,-46.4,162.48
+de_mirage,T Spawn to B Arch,jump,smokegrenade,494.66,583.6,-124,-53.8,-176.55
+de_mirage,Window (Oneway),stand,smokegrenade,-1120.03,-456,-167.97,54.42,-81.43
+de_mirage,Window (Oneway),stand,smokegrenade,-1120.01,-796,-167.97,8.23,85.8
+de_mirage,A Site to A Ramp,stand,smokegrenade,-554.98,-2103.68,-179.97,-16.11,41.08
+de_mirage,B Site to B Apartments,stand,smokegrenade,-2416,-115.76,-157.97,-28.17,44.12
+de_mirage,Triple Boxes to Tetris,stand,molotovgrenade,-365,-2173.03,-176.19,-26,44.66
+de_mirage,Tetris to Danger Box,stand,molotovgrenade,-31.92,-1418.02,-167.97,-19.77,-138.12
+de_mirage,Cart to Connector,stand,flashbang,343.3,-621.62,-163.43,-14.39,-171.28
+de_mirage,B Apartments to Short,stand,smokegrenade,-1367.97,815.99,-79.97,-3.81,-160.38
+de_mirage,Truck to B Apartments,stand,flashbang,-2114.03,830.58,-121.58,-69.51,38.82
+de_mirage,Short to B Site,stand,flashbang,-944.56,-119.97,-167.97,-30.25,26.39
+de_mirage,Window to Mid,stand,flashbang,-1120,-854.38,-167.97,-42.45,135.65
+de_mirage,A Stairs to Connector,stand,flashbang,-496.03,-1309.03,-159.97,-65.18,-10.26
+de_mirage,A Stairs to A Site,stand,flashbang,-496,-1392.27,-114.94,-47.82,93.07
+de_mirage,T Spawn to CT,jump,smokegrenade,1257.86,-871.97,-143.97,-21.82,-144.34
+de_mirage,T Roof to Under Balcony,stand,smokegrenade,814,-1547.99,-108.97,-27.97,163.55
+de_mirage,T Ramp (Oneway),stand,smokegrenade,457.97,-1712,-240.95,-10.48,133.14
+de_mirage,Top Mid to Jungle,jump,smokegrenade,393.93,337.97,-251.97,-34.96,-124.55
+de_mirage,Tetris to CT,stand,smokegrenade,-91.09,-1418.01,-115.97,-28.22,-114.38
+de_mirage,Alley to Truck,jump,smokegrenade,-190.94,696,-71.97,-20.58,179.22
+de_mirage,T Spawn to Cat,stand,smokegrenade,1422.98,70.97,-112.9,-32.65,-163.53
+de_mirage,B Site to Alley,stand,smokegrenade,-1862.97,176.02,-159.97,-42.82,21.95
+de_mirage,B Site to Palace,jump,smokegrenade,-1863.97,335.97,-159.97,-31.19,-51.15
+de_mirage,B Site to Kitchen Oneway,stand,smokegrenade,-1435.97,283.97,-167.97,-6.47,-131.31
+de_mirage,Alley To Bombsite B,stand,smokegrenade,-367.83,684.99,-79.97,-50.2,-164.87
+de_mirage,Triple Boxes to Triple Boxes (Oneway),stand,smokegrenade,-253.97,-2134.08,-172.95,10,113.65
+de_mirage,Palace to Balcony,stand,smokegrenade,32.01,-2375.82,-39.97,4.91,62.56
+de_mirage,CT Spawn to T Ramp,jump,smokegrenade,-2026.397583,-2029.96875,-299.06015,-15.3121,12.573707
+de_mirage,Mid to connector A,stand,smokegrenade,360.04727172852,-691.99694824219,-162.4914855957,-47.670017242432,-153.42156982422
+de_mirage,Deep Jungle,jump,smokegrenade,502.99493408203,-64.005340576172,-160.00096130371,-14.540283203125,-134.18983459473
+de_mirage,A-CT-Firebox,jump,smokegrenade,502.99890136719,-64.009742736816,-160.00001525879,-23.188915252686,-126.87976074219
+de_mirage,Connector,run,smokegrenade,173.25263977051,-935.97729492188,-158.21870422363,-13.033250808716,126.19613647461
+de_mirage,Under,crouch,smokegrenade,-1199.9934082031,-407.98031616211,-55.96875,21.692878723145,-70.049644470215
+de_mirage,Ladder Up,right,smokegrenade,-1136.0023193359,-407.98391723633,-55.96875,33.979568481445,-149.7862701416
+de_mirage,Jungle door,jump,smokegrenade,-739.02453613281,292.9973449707,-143.96875,-23.918182373047,-104.5920715332
+de_mirage,CT,jump,smokegrenade,-739.00311279297,292.99600219727,-143.96875,-14.342949867249,-91.206886291504
+de_mirage,Under,jump,smokegrenade,-736.38732910156,241.03157043457,-143.96875,1.2039716243744,-99.34114074707
+de_mirage,Under,jump,smokegrenade,-739.00048828125,292.78530883789,-143.96875,1.1009937524796,-98.466674804688
+de_mirage,Short Corner,jump,smokegrenade,-739.00402832031,292.99633789063,-143.96875,-4.4246726036072,-128.7262878418
+de_mirage,A CT-Connector,jump,smokegrenade,-903.96875,-499.970703125,-93.984375,-18.633172988892,-79.255325317383
+de_mirage,A wood,jump,smokegrenade,-903.99151611328,-499.9977722168,-93.984375,-17.912456512451,-71.276222229004
+de_mirage,A ladder corner,jump,smokegrenade,-903.99914550781,-499.97900390625,-93.984375,-21.149389266968,-63.091373443604
+de_mirage,A ninja,jump,smokegrenade,-903.9921875,-499.99697875977,-93.984375,-24.444128036499,-52.589435577393
+de_mirage,Jungle door,stand,smokegrenade,-903.99298095703,-499.99319458008,-93.984375,-53.375831604004,-104.48220062256
+de_mirage,Deep ramp,jump,smokegrenade,-901.12823486328,-499.91253662109,-93.984375,-13.53035068512,-31.947122573853
+de_mirage,Ticket,jump,smokegrenade,-911.18493652344,-30.03125,-167.96875,-21.785024642944,-88.47038269043
+de_mirage,Palace,jump,smokegrenade,-2031.9969482422,-1766.4660644531,-300.36181640625,-25.842937469482,-10.909400939941
+de_mirage,Catwalk,jump,smokegrenade,-1547.9993896484,-2407.9992675781,-240.00717163086,-41.698539733887,61.933769226074
+de_mirage,Under,jump,smokegrenade,-1548.0114746094,-2407.96875,-240.00932312012,-24.401195526123,74.340339660645
+de_mirage,Catwalk,jump,smokegrenade,-260.78356933594,-2345.369140625,-167.96875,-18.490283966064,85.766288757324
+de_mirage,CT,right,smokegrenade,-260.78491210938,-2345.3735351563,-167.96875,-44.41809463501,-177.70843505859
+de_mirage,T palace,jump,smokegrenade,-253.99673461914,-2134.0124511719,-172.94664001465,-56.876392364502,33.15446472168
+de_mirage,T spawn catwalk,jump,smokegrenade,-554.99987792969,-2103.6743164063,-179.96875,-18.472259521484,30.684209823608
+de_mirage,Ramp-Tetris,jump,smokegrenade,-142.97282409668,-1418.0023193359,-72.175369262695,-22.590932846069,-85.815132141113
+de_mirage,Deep Ramp,jump,smokegrenade,-142.99305725098,-1418.0075683594,-72.175369262695,-6.4262380599976,-23.009347915649
+de_mirage,Under-Connector,jump,smokegrenade,-6.7770323753357,-1811.9942626953,-110.97956085205,-35.666847229004,124.94413757324
+de_mirage,Short Left Arch,jump,smokegrenade,181.99873352051,-1717.9946289063,-167.96875,-37.726058959961,130.50340270996
+de_mirage,B Aps Entrance,jump,smokegrenade,181.99920654297,-1717.9958496094,-167.96875,-29.446586608887,111.01082611084
+workshop/125439851/de_vertigo,Corner to ramp,stand,smokegrenade,-1135.96875,-592.09790039063,11776.03125,-41.655612945557,-23.777687072754
+workshop/125439851/de_vertigo,Ramp to passage,stand,smokegrenade,-901.99188232422,-1359.96875,11715.03125,-38.463775634766,57.92113494873
+workshop/125439851/de_vertigo,Ramp to A,stand,smokegrenade,-841.99743652344,-1359.96875,11648.03125,-42.5823097229,63.838966369629
+workshop/125439851/de_vertigo,Connector to passage,stand,smokegrenade,-1065.8858642578,-354.5673828125,11776.03125,-30.123929977417,-35.312854766846
+de_cache,Pipes to Truck,run,smokegrenade,1319.97,1613,1779.31,-42.3969,-169.734
+de_cache,Corner to Vents,jump,smokegrenade,-996.969,1440.25,1691.18,-12.7729,-47.085
+de_cache,Wood Panels to Highway,jump,smokegrenade,1810.82,865.999,1676.91,-43.0693,176.759
+de_cache,Skull to Quad,stand,smokegrenade,1319.91,1412.39,1701.09,-55.3814,155.922
+de_cache,Corner to Forklift,jump,smokegrenade,1037.04,513.031,1613.55,-44.6378,112.031
+de_cache,Fence to B Site,stand,smokegrenade,730.498,-1463.97,1614.09,-30.8836,161.23
+de_cache,Corner to Site/Truck,stand,smokegrenade,1230.76,1612.99,1701.97,-61.6002,-176.367
+de_cache,Vent to Z,jump,hegrenade,605.031,-149.969,1689.04,15.5562,168.976
+de_cache,Checkers to Vent,stand,molotovgrenade,-411.969,-418.969,1614.09,-18.9595,8.87426
+de_cache,Checkers to B Hall,stand,flashbang,-45.6796,-418.969,1614.09,-20.5039,45.5835
+de_cache,Vent to Under Vent,stand,molotovgrenade,568.969,-164.64,1748.09,4.08768,-130.003
+de_cache,Flash Room to Back Site,stand,molotovgrenade,730.243,-1463.97,1614.09,-28.4482,148.102
+de_cache,Flash Room to Default,stand,molotovgrenade,960.007,-1463.97,1644.09,-24.8676,171.447
+de_cache,Back Site to Heaven,stand,smokegrenade,204.969,-1458.97,1659.09,-17.2942,128.952
+de_cache,Back Site to Heaven,stand,molotovgrenade,204.969,-1458.98,1659.09,-17.9179,131.368
+de_cache,Heaven to Back Site,stand,molotovgrenade,-530.345,-528.969,1731.46,-11.8888,-62.3155
+de_cache,T Spawn Truck to Z,jump,smokegrenade,1776.27,867.486,1618.35,-17.6866,-156.009
+de_cache,Boost to Z,stand,smokegrenade,1018.02,593.727,1719,-10.5544,-157.868
+de_cache,Back Site to CT,stand,smokegrenade,204.969,-1458.97,1659.09,-54.5868,138.486
+de_cache,B Hall to CT,run,smokegrenade,376.41,-819.089,1614.09,-14.6233,137.173
+de_cache,B Hall to Heaven,stand,smokegrenade,272.78,-748.37,1614.03,-33.28,137.4
+de_cache,T Spawn Truck to Mid Box,stand,smokegrenade,1880.82,615.969,1645.24,-31.1609,-174.506
+de_cache,Long A to A Balcony,stand,smokegrenade,1319.99,1339.23,1701.09,-60.6583,-178.654
+de_cache,Long A to Highway Side of A,stand,smokegrenade,1320,1612.98,1779.31,-49.9069,-174.262
+de_cache,Garage to Sandbags,stand,molotovgrenade,833.031,326.987,1614.09,-16.5419,-151.03
+de_cache,Garage to Mid,stand,flashbang,1762.03,318.361,1614.03,-11.1988,-176.684
+de_cache,B Hall to B Main,stand,flashbang,956.565,-1174,1614.09,-12.6838,144.284
+de_cache,T Spawn to Z,jump,smokegrenade,1810.81665,865.96875,1676.912354,-9.405066,-157.948578
+de_cache,Boost Boxes to Quad Stack,jump,smokegrenade,1037.03125,513.005066,1613.550293,-51.793724,127.469002
+de_cache,Heaven to B Halls,stand,smokegrenade,-461.03125,-764.96875,1796.09375,-0.907516,35.265495
+de_cache,Car to Vents,run,smokegrenade,-996.979553,1440.231689,1691.182373,-33.181599,-46.326721
+de_cache,Car to Main,stand,smokegrenade,-782.198059,1110.000366,1689.439697,-9.703021,24.963852
+de_cache,Heaven to B Halls,stand,smokegrenade,-617.96875,-764.940491,1796.09375,12.638,6.434308
+de_cache,Z (Oneway),stand,smokegrenade,-367.03125,116.56559,1663.09375,-0.19867,-170.005798
+de_cache,Vent (Oneway),stand,smokegrenade,425.96875,-418.997192,1614.09375,-20.180223,83.582611
+de_cache,Quad boxes to Main,stand,smokegrenade,-429.96875,2244.96875,1687.09375,-66.017174,-31.140173
+de_cache,Quad boxes to Main,stand,smokegrenade,-429.96875,2261.986328,1718.09375,-1.766171,-30.80728
+de_cache,NBK to Main,stand,smokegrenade,-50.012558,2261.96875,1687.09375,-18.612713,-64.612831
+de_cache,Toxic to Headglitch,stand,smokegrenade,827.948181,-1463.96875,1614.09375,-25.822598,165.04187
+de_cache,Long A to Default,stand,smokegrenade,1319.997803,1601.899658,1737.544922,-47.685471,-174.764786
+de_cache,Long A to Forklift,stand,smokegrenade,1230.75415,1612.96875,1701.965088,-74.514435,-173.894516
+de_cache,Long A to Forklift / Default,stand,smokegrenade,1269.96875,1612.96875,1751.581787,-62.997536,-175.315842
+de_cache,Toxic to Headglitch,stand,smokegrenade,827.999878,-1463.96875,1614.09375,-27.291553,163.36586
+de_cache,Garage to Middle Roof side,stand,smokegrenade,1711.974121,463.987732,1614.09375,-10.675973,-167.299591
+de_cache,Garage to Middle Spool side,stand,smokegrenade,1711.96875,-71.96875,1614.09375,-10.560504,161.185349
+de_cache,B Halls to Checkers,stand,smokegrenade,837.744141,-872.015564,1614.09375,-15.362073,177.850555
+de_cache,Long A to Balcony,stand,smokegrenade,1319.992554,1578.756592,1701.09375,-50.903076,-167.315948
+de_cache,Long A to NBK,stand,smokegrenade,1319.96875,1520.395508,1701.09375,-57.767025,161.424835
+de_cache,Squeaky to NBK,stand,smokegrenade,154.413376,2096.080566,1688.09375,9.370919,-29.337667
+de_cache,Squeaky to Forklift / Default,run,smokegrenade,139.03125,2197.96875,1688.09375,-6.040052,-60.836231
+de_cache,T Spawn to Middle,jump,smokegrenade,2643.454346,12.689742,1613.09375,-11.831539,-179.061951
+de_cache,Boost Boxes (Oneway),stand,smokegrenade,1037.03125,513.03125,1613.550293,-49.137814,104.639671
+de_cache,Toxic to Default,stand,smokegrenade,827.971313,-1463.96875,1614.09375,-21.995483,162.191437
+de_cache,T Spawn to Spool,jump,smokegrenade,2156.58374,-182.96875,1613.483887,-22.077839,161.943924
+de_cache,Toxic to CT,stand,smokegrenade,960.03125,-1463.96875,1644.09375,-26.400745,162.85173
+de_cache,Long to Z,stand,smokegrenade,1160.711182,715.841675,1613.09375,-31.334572,-153.088974
+de_cache,Long to Safe / Quad Boxes,stand,smokegrenade,1319.99707,1355.521484,1701.09375,-49.913193,157.243423
+de_cache,Checkers to B Halls,stand,flashbang,5.553447,-418.998749,1614.09375,-17.391062,53.037075
+de_cache,Heaven to Bombsite B,stand,flashbang,-633.975891,-379.96875,1620.09375,-41.629662,-58.865555
+de_cache,NBK to Bombsite A,stand,flashbang,89.984558,2244.983398,1687.09375,-71.181236,-93.482628
+de_cache,Sandbags to Middle,stand,flashbang,114.96875,-107.322037,1613.718506,-16.913092,-84.200432
+de_cache,Quad boxes to Main,stand,flashbang,-358.534668,2147.728027,1687.09375,-17.540194,2.039984
+de_cache,New box to B Hall,jump,flashbang,204.96875,-1114.011475,1659.09375,-44.501499,112.792343
+de_cache,Elektro to Main,stand,flashbang,-482.990204,1441.979736,1687.09375,-15.857206,11.924713
+de_cache,B Halls to Bombsite B / Checkers,stand,flashbang,879.802185,-872.03125,1614.09375,-14.157107,177.892853
+de_cache,Garage to Middle,run,flashbang,1736.970581,308.96875,1614.09375,-9.157659,162.762833
+de_cache,Main to Bombsite A,stand,flashbang,766.999634,1117.012329,1702.09375,-26.021078,117.366554
+de_cache,B Halls to B Main,stand,flashbang,1481.584961,-729.984558,1614.09375,-16.715294,-165.484711
+de_cache,B Halls to Bombsite B,stand,flashbang,1113.96875,-1173.96875,1614.09375,-11.088833,151.700394
+de_cache,B Halls to Checkers,run,flashbang,808.282593,-1173.96875,1614.09375,-9.570838,132.692581
+de_cache,Squeaky to Quad Boxes,stand,flashbang,480.96875,2080.03125,1702.088379,-10.906268,119.346947
+de_cache,Sandbags to Boost,stand,molotovgrenade,11.759085,-148.994904,1613.09375,-32.654572,38.675369
+de_cache,Car to Safe,stand,molotovgrenade,-905.036194,1031.001953,1693.963135,-23.496885,43.063911
+de_cache,Toxic to Bombsite B,stand,molotovgrenade,1121.207642,-1455.96875,1616.884521,-26.13628,174.922928
+de_cache,Toxic to Headglitch,stand,molotovgrenade,827.96875,-1463.96875,1614.09375,-26.086803,167.349457
+de_cache,Long A to Vents,run,molotovgrenade,1261.099487,1321.491089,1701.09375,-18.200563,-115.368744
+de_cache,Toxic to Spray boxes,stand,molotovgrenade,606.03125,-1463.96875,1614.09375,-32.968052,140.433624
+de_cache,Toxic to Headglitch,stand,molotovgrenade,907.649597,-1228.03125,1614.09375,-23.876366,-179.77179
+de_cache,Long to Sandbags,jump,molotovgrenade,1350.702637,975.997009,1618.09375,2.589756,-140.584335
+de_cache,Vent entrance to Sandbags,stand,molotovgrenade,605.020508,-75.336723,1687.386475,-24.338161,-171.54982
+de_cache,Vent entrance to Spools,stand,molotovgrenade,605.005188,-149.96875,1689.035889,-6.584105,133.537994
+de_overpass,Short Tunnel,stand,smokegrenade,-2041.28,902.592,480.094,-30.0849,-65.0901
+de_overpass,Barrels,stand,smokegrenade,-201.185,-919.1,30.6068,-31.8449,117.134
+de_overpass,Bridge,stand,smokegrenade,-1557.14,-360.692,32.4734,-43.515,21.5197
+de_overpass,Car,stand,smokegrenade,-3288.63,-358.969,536.094,-21.6798,61.4749
+de_overpass,Container,stand,smokegrenade,-3288.63,-358.969,536.094,-17.8298,59.7699
+de_overpass,Long to Bank,jump,smokegrenade,-3611.195557,-177.62674,512.836487,4.685833,45.85442
+de_overpass,Long to Back A,jump,smokegrenade,-3580.172363,-78.238251,512.93634,6.714474,32.608036
+de_overpass,CT Spawn to Canal pipe,jump,smokegrenade,-1993.412598,537.720886,475.093811,-1.881,-43.970734
+de_overpass,CT Spawn to Monster,jump,smokegrenade,-2088.664551,918.095581,480.093811,-16.533953,-48.058834
+de_overpass,Long to Bank,jump,smokegrenade,-3612.72583,-177.62674,512.779907,3.035884,45.676239
+de_overpass,Long to Back A,jump,smokegrenade,-3580.172363,-78.238251,512.93634,4.255975,32.542042
+de_overpass,CT Spawn to Pipe,stand,smokegrenade,-2079.996582,670.613342,472.093811,-17.14472,-61.818825
+de_overpass,CT Spawn to Sandbags,stand,smokegrenade,-2115.841309,992.920288,480.093811,-22.936214,-57.690578
+de_overpass,Back A to Canal pipe,stand,smokegrenade,-1926.860962,1311.96875,355.030579,-46.200985,-40.010532
+de_overpass,Tunnels (Oneway),stand,smokegrenade,-2012.96875,-1231.96875,240.093811,16.218643,63.144173
+de_overpass,CT Spawn to Pipe,stand,smokegrenade,-2244.988281,801.227356,472.093811,-20.659,-59.482792
+de_overpass,Heaven (Oneway),stand,smokegrenade,-1826.37561,629.178894,256.093811,26.580435,-17.457275
+de_overpass,Construction (Oneway),stand,smokegrenade,-1559.991455,-361.262207,32.424126,-19.075224,-131.257538
+de_overpass,Back A (Oneway),stand,smokegrenade,-2191.96875,1311.96875,356.093811,-8.86176,-55.390415
+de_overpass,CT Spawn to Long,stand,smokegrenade,-1993.398926,537.698242,475.093811,-28.677984,-169.596695
+de_overpass,CT Spawn to Pipe,jump,smokegrenade,-2445.471436,1043.549438,480.084656,-5.792435,-58.008457
+de_overpass,CT Spawn to Pipe,stand,smokegrenade,-1929.296509,800.613403,480.093811,-13.266983,-67.330742
+de_overpass,CT Spawn to Monster,stand,smokegrenade,-2059.970947,633.612732,472.093811,-33.990913,-43.224922
+de_overpass,Cafe to GSG,stand,smokegrenade,-3320.36084,-358.997864,536.093811,-18.134613,62.146011
+de_overpass,Construction to Bridge,stand,smokegrenade,-1559.99939,-361.285339,32.421722,-43.693123,21.193089
+de_overpass,Short to B Default,stand,smokegrenade,-2536.195557,-1056.03125,433.399048,-25.873356,34.544403
+de_overpass,Short to A Main,stand,smokegrenade,-2025.534058,-865.001343,395.427856,-28.313963,114.564102
+de_overpass,Short to Back A,stand,smokegrenade,-2351.96875,-414.03125,388.562317,-60.588089,73.825958
+de_overpass,Short to Bank,stand,smokegrenade,-2162.000488,-519.96875,391.460358,-29.749702,100.836487
+de_overpass,Short to Toxic / Pillar,stand,smokegrenade,-2537.055664,-1056.03125,433.399078,-25.525805,38.119961
+de_overpass,Short to Truck (In),stand,smokegrenade,-2351.589111,-790.03125,388.75824,-37.65332,79.287178
+de_overpass,Short to Truck (Out),stand,smokegrenade,-2351.96875,-790.030823,388.806732,-37.735825,81.105255
+de_overpass,Squeaky to Heaven,stand,smokegrenade,-1751.96875,-671.96875,128.343811,-21.813353,87.229683
+de_overpass,Tracks to Toxic / Pillar,stand,smokegrenade,-613.014099,-1082.017212,42.160416,-29.337307,99.340714
+de_overpass,Tracks to B Default,stand,smokegrenade,-525.9823,-1551.984375,144.093811,-43.807911,110.431473
+de_overpass,Alley to Bridge,stand,smokegrenade,-617.486389,-1509.028809,144.093811,-48.988934,113.071342
+de_overpass,Long to GSG,stand,smokegrenade,-3612.545654,-177.62674,512.791992,-40.392601,51.259613
+de_overpass,Construction to Toxic,run,smokegrenade,-1645.96875,-1087.96875,96.093811,-14.603092,62.433121
+de_overpass,Construction to Bridge,stand,smokegrenade,-1567.96875,-632.289246,7.324776,-39.254143,57.023972
+de_overpass,Construction to B Default,stand,smokegrenade,-1567.96875,-1087.984619,0.093811000000002,-30.278185,74.646019
+de_overpass,Construction to Pit,stand,smokegrenade,-1567.96875,-1087.989624,0.093811000000002,-24.899216,71.312859
+de_overpass,Construction to Heaven,stand,smokegrenade,-1559.96875,-728.785583,52.574356,-33.446209,96.293686
+de_overpass,T Spawn to Restroom,run,smokegrenade,-730.03125,-2225.143799,240.093811,-51.612926,149.045975
+de_overpass,Long to Back A,stand,smokegrenade,-3383.369629,35.247875,516.906006,-18.035419,31.69908
+de_overpass,Short to Heaven,stand,smokegrenade,-2174.002441,-1151.96875,398.197235,-26.368107,71.543701
+de_overpass,Construction to Pillar,stand,smokegrenade,-1645.986938,-1087.9823,96.093811,-20.0158,55.835869
+de_overpass,Short to Truck,stand,smokegrenade,-2351.96875,-815.96875,391.089905,-34.683971,81.500427
+de_overpass,Water to Walkway (Right),stand,smokegrenade,-1421.973022,-1087.96875,0.280518,-28.760462,107.193207
+de_overpass,Water to Walkway (Left),stand,smokegrenade,-1259.998779,-1079.979126,0.093811000000002,-32.010883,110.080414
+de_overpass,Cafe to Boxes / Truck,stand,smokegrenade,-3540.03125,-381.96875,528.0802,-14.256992,41.849758
+de_overpass,Bank to Long,stand,flashbang,-2604.023926,1102.215088,480.093811,-24.090078,70.93821
+de_overpass,Connector to Lower Tunnel,stand,flashbang,-2012.911011,-1231.996216,240.093811,-28.842152,44.554512
+de_overpass,Construction to Bridge,stand,flashbang,-1559.997192,-361.269562,32.426544,-43.642719,21.174242
+de_overpass,Safe to B Default,stand,molotovgrenade,-1399.96875,-139.99884,0.093811000000002,-15.444187,63.084324
+de_overpass,Walkway to B Default,stand,molotovgrenade,-1894.376343,263.177185,160.093811,-22.407324,-21.44619
+de_overpass,Walkway to Pipe,stand,molotovgrenade,-2022.995605,-48.03125,139.760818,-12.589812,-44.595539
+de_overpass,Alley to Construction,stand,molotovgrenade,-759.569702,-1903.184692,198.718872,-14.635645,112.223526
+de_overpass,Cafe to Truck,run,molotovgrenade,-3518.199951,-361.96875,525.707703,-13.167252,35.511749
+de_overpass,Construction to Toxic,stand,molotovgrenade,-1580.023315,-480.767883,136.093811,-20.147602,53.764153
+de_overpass,Construction to Pit Ramp,stand,molotovgrenade,-1731.96875,-702.000977,96.093811,-18.035467,57.402164
+de_overpass,Cafe to Bombsite A,stand,molotovgrenade,-3328.006592,-358.999359,536.093811,-13.035878,50.825703
+de_dust2,Long to Car,jump,molotovgrenade,847.153259,790.03125,47.03125,4.800274,52.7133
+de_dust2,CT Middle to Big Box,run,molotovgrenade,-760.03125,2066.03125,-103.972916,-21.041596,166.945007
+de_dust2,T Spawn to Xbox,jump,smokegrenade,-300,-1163.97,77.71,-15.91,89.19
+de_dust2,Outside long to Xbox,jump,smokegrenade,757.07605,-347.96875,8.093811,-13.943636,117.891571
+de_dust2,Long (Car) to Long Doors,stand,smokegrenade,1752.049561,2046.932739,0.365112,-33.430305,-130.54628
+de_dust2,CT Middle to Upper Tunnel,stand,smokegrenade,-985.452942,2553.223877,1.318863,-26.764244,-143.848251
+de_dust2,Long to Long Doors,stand,smokegrenade,1624.519043,1710.172363,1.153809,-28.464088,-136.48912
+de_dust2,CT Middle to Back Plateau,stand,smokegrenade,-835.810364,2499.285645,-39.906189,-63.179523,165.189682
+de_dust2,Window to Car,stand,smokegrenade,-1273.96875,2575.96875,67.353378,-69.713417,-114.456139
+de_dust2,CT Spawn to Lower tunnels / Xbox,stand,smokegrenade,-242.03125,2278.887695,-119.931587,-32.687481,-123.649094
+de_dust2,Car to Long Doors,stand,smokegrenade,1639.710693,1999.486816,0.093811000000002,-35.738846,-127.236259
+de_dust2,Long to Cross,run,smokegrenade,860.03125,790.03125,3.900848,-23.414322,43.616291
+de_dust2,Upper tunnel to B Entrance,stand,smokegrenade,-1846.553223,1232.569824,32.496025,-8.613732,118.773392
+de_dust2,Xbox to CT Spawn,stand,smokegrenade,-285.766388,1475.036377,-27.906189,-34.354065,133.947922
+de_dust2,Short to CT,stand,smokegrenade,427.030823,1749.997681,6.567749,-76.82547,59.183929
+de_dust2,Middle to CT Spawn,stand,smokegrenade,-513.365051,1101.96875,-70.767044,-16.187346,77.900352
+de_dust2,Catwalk to CT Spawn,stand,smokegrenade,-149.03125,1176.798218,-0.360607,-15.049,129.474686
+de_dust2,Lower tunnel to CT Middle,stand,smokegrenade,-538.606567,1382.03125,-111.957108,-35.36055,53.845985
+de_dust2,Outside long to Xbox,stand,smokegrenade,229.130554,112.497559,5.215744,-40.624023,108.758316
+de_dust2,Top middle to Xbox,run,smokegrenade,53.135975,308.03125,1.185776,-38.380016,129.092972
+de_dust2,Short (Oneway),stand,smokegrenade,489.977875,1598.407349,0.133301,-35.129364,134.356247
+de_dust2,Xbox to CT Spawn,jump,smokegrenade,-275.010681,1345.370605,-122.675453,-5.594321,128.32959
+de_dust2,Outside long to Long,stand,smokegrenade,222.664124,-87.97821,9.093811,-46.250572,48.164497
+de_dust2,Short to CT,stand,smokegrenade,189.982376,1334.026611,1.146324,-15.592529,66.193123
+de_dust2,Short to Jump CT,stand,smokegrenade,489.998535,1446.03125,2.660507,-5.67732,88.280685
+de_dust2,CT Middle to Bombsite B,stand,flashbang,-871.96875,2083.089111,-78.151726,-32.192467,164.727142
+de_dust2,Window to Bombsite B,stand,flashbang,-1273.96875,2575.96875,67.353363,-42.043125,1.218936
+de_dust2,Xbox to Middle doors,stand,flashbang,-275.03125,1345.385132,-122.547989,-38.347153,62.329086
+de_dust2,Middle to Short,stand,flashbang,-521.96875,1101.96875,-69.915092,-29.585243,28.768139
+de_dust2,Outside long to Long,stand,flashbang,572.03125,-395.96875,8.093811,-33.133152,61.396862
+de_dust2,CT Middle to Car,stand,molotovgrenade,-984.909424,2553.218994,1.106842,-22.044695,-129.863113
+de_dust2,CT Middle to Backsite,stand,molotovgrenade,-760.03125,2066.03125,-103.972931,-23.49703,132.68486
+de_dust2,Xbox to Middle doors,stand,molotovgrenade,-275.03125,1345.421997,-122.247765,-32.753494,134.837158
+de_mirage,BOMBSITE B,stand,smokegrenade,-1434.03125,-1174.9895019531,-167.96875,-59.420387268066,116.37239837646
+de_mirage,BOMBSITE B 2,stand,smokegrenade,-1434.009765625,-1174.96875,-167.96875,-58.822883605957,124.76595306396
+de_mirage,APARTS B,stand,smokegrenade,-2415.96875,-115.75730895996,-157.97093200684,-24.723831176758,44.036376953125
+de_mirage,BOMBSITE B ,stand,smokegrenade,-835.60534667969,614.95782470703,-79.133102416992,-63.940116882324,-147.82847595215
+de_mirage,SHORT,jump,smokegrenade,-741.83203125,622.96417236328,-75.96875,-38.986305236816,-156.82104492188
+de_mirage,BENCH B,jump,smokegrenade,-540.44152832031,520.03125,-81.346961975098,-41.697643280029,179.92498779297
+de_mirage,CAR B,jump,smokegrenade,-161.01751708984,575.22698974609,-69.855438232422,-13.986184120178,176.23318481445
+de_mirage,CONNECTOR,jump,smokegrenade,1135.96875,647.98797607422,-261.38424682617,-28.002620697021,-141.05844116211
+de_mirage,CONNECTOR,stand,smokegrenade,398.99984741211,176.55078125,-249.45204162598,-46.982425689697,-136.43299865723
+de_mirage,SHORT,stand,smokegrenade,-968.00231933594,-380.20684814453,-345.86303710938,-62.223476409912,178.15022277832
+de_mirage,RAMP A,stand,smokegrenade,-1174.5467529297,-2511.0808105469,-168.00428771973,-21.185167312622,33.911510467529
+de_mirage,RAMP A,stand,smokegrenade,-789.47735595703,-1306.03125,-167.96875,-67.416313171387,-9.8082914352417
+de_mirage,FIRE WINDOW,stand,molotovgrenade,-1952.0290527344,656.76416015625,-27.96875,0.27625930309296,-88.668685913086
+de_mirage,ONEWAY,stand,smokegrenade,457.99877929688,-1711.96875,-240.9644317627,-12.591116905212,133.31042480469
+de_mirage,SANDWTCH,stand,molotovgrenade,512.88134765625,-1555.3151855469,-263.96875,-22.563419342041,177.91702270508
+de_mirage,UNDER PALACE,stand,molotovgrenade,16.03125,-2375.96875,-39.96875,2.5742983818054,76.079345703125
+de_mirage,JUNGLE STAIRS FLASH,jump,flashbang,-261.44171142578,-1547.4940185547,-167.96875,-43.243072509766,-13.901968955994
+de_mirage,A RAMP ,stand,flashbang,58.635478973389,-2085.8937988281,-167.96875,-6.4496440887451,89.360214233398
+de_mirage,A RAMP,stand,flashbang,151.30456542969,-1912.03125,-167.96875,-2.7272582054138,-159.61187744141
+de_mirage,RUN FLASH A,run,flashbang,-704.77569580078,-2124.8000488281,-179.96875,-43.673652648926,175.75579833984
+de_mirage,APARTS FLASH,stand,flashbang,-2411.96875,-246.31791687012,-164.57197570801,-20.098415374756,54.478672027588
+de_train,Connector to Blue train,jump,smokegrenade,1077.999756,-753.979309,-223.906189,-45.80407,143.151688
+de_train,A1 to Break Room,stand,smokegrenade,1021.096924,-254.988556,-215.906189,-38.494926,154.562332
+de_train,White halls to Ivy,stand,smokegrenade,-655.999207,-449.66864,16.093811,-38.577927,27.880314
+de_train,White halls to Green train,stand,smokegrenade,-613.161682,-583.96875,16.093811,-44.022999,53.455647
+de_train,Boilers to H2 / Bomb train,run,smokegrenade,-1155.979004,-1301.504395,-95.906189,-15.857571,38.88282
+de_train,Boilers to B Upper,stand,smokegrenade,-1055.96875,-1607.969116,-151.906189,-9.076089,-21.028521
+de_train,Boilers to Connector,run,smokegrenade,-1159.999634,-1048.001709,-95.906189,-11.023086,5.091055
+de_train,Boilers to H2 Lower,run,smokegrenade,-1159.978027,-1088.112549,-95.909508,-6.832071,13.307947
+de_train,T Spawn to Bomb train,stand,smokegrenade,-526.628235,1325.40686,-86.839478,-26.41748,-57.328667
+de_train,T Spawn to Bomb train,stand,smokegrenade,-453.358459,1286.284668,-86.490753,-25.130558,-58.731426
+de_train,T Spawn to Blue train / Red train,stand,smokegrenade,-645.47937,1697.721924,-209.906189,-41.56469,-65.086685
+de_train,T Spawn to Green train,stand,smokegrenade,-803.572388,388.278839,-215.906189,-21.022144,13.708805
+de_train,T Spawn to Electric box,stand,smokegrenade,-645.469482,1697.722534,-209.908966,-42.05962,-72.308723
+de_train,T Spawn to Blue train,stand,smokegrenade,-555.03125,1262.03125,-212.532227,-68.09655,-50.974125
+de_train,T Spawn to Electric box,stand,smokegrenade,-481.865631,1725.011597,-209.906189,-45.93708,-78.790627
+de_train,T Spawn to A Train,stand,smokegrenade,-660.665283,1157.718262,-216.906189,-43.198013,-44.553295
+de_train,T Spawn to Red Train / Green Train,stand,smokegrenade,-838.162292,1268.024414,-222.906189,-37.604507,-42.064575
+de_train,B Stairs to Ivy / Green Train,stand,smokegrenade,-640.027832,-583.969666,16.093811,-44.699406,32.218452
+de_train,T Long to Ivy,stand,smokegrenade,1388.42627,1446.000488,-223.906189,-6.188282,-95.524574
+de_train,T Long to A2,run,smokegrenade,1535.96875,1775.96875,-223.906189,-9.818258,-112.486588
+de_train,B Stairs to Connector,stand,smokegrenade,-653.999329,-479.968719,16.093811,-41.597443,-8.42019
+de_train,T Spawn to Connector,stand,smokegrenade,-448.614746,1236.03125,-86.839478,-29.766037,-58.441879
+de_train,White halls to Bomb train / Connector,stand,smokegrenade,-655.96875,-399.892731,16.093811,-46.002502,10.89071
+de_train,Bombsite B to Boilers,stand,flashbang,50.86047,-1023.914978,-164.55777,-23.860077,-179.212845
+de_train,Connector to Bombsite A,run,flashbang,400.03125,-420.03125,-211.777573,-28.85902,-89.674629
+de_train,Upper to Boilers,stand,flashbang,-799.032654,-1731.970947,-127.906189,-13.036031,0.827849
+de_train,Boilers to Ladder,stand,molotovgrenade,-989.218689,-1637.97937,-151.906189,-10.660044,-19.426443
+de_train,Break Room to Blue Train / Green Train,run,molotovgrenade,-790.028748,375.928741,-215.906189,-11.270589,27.332729
+de_train,Break Room to Electric Box,jump,molotovgrenade,-750.761169,304.03125,-215.906189,-3.053643,51.947502
+de_nuke,T Spawn to CT Red,jump,smokegrenade,-916.118713,-1143.96875,-415.917816,-18.249531,-14.669739
+de_nuke,CT Spawn to Outside T,jump,smokegrenade,1664.03125,-280.002014,-351.90625,-25.048063,-135.212463
+de_nuke,T Spawn to Garage,jump,smokegrenade,-891.998962,-1168.323486,-413.906189,-17.572639,-17.452114
+de_nuke,T Spawn to Hut roof,jump,smokegrenade,-891.951721,-1263.96875,-415.906189,-17.688993,4.36083
+de_nuke,Secret (Oneway),stand,smokegrenade,1370.326782,-2447.993164,-452.117767,37.305859,-88.044754
+de_nuke,Heaven (Oneway),stand,smokegrenade,1041.013916,-512.03125,-103.906189,3.827516,-88.642143
+de_nuke,T Roof to Secret entrance,stand,smokegrenade,-438.052002,-1060.469238,-156.656189,-14.751043,-37.170055
+de_nuke,T Roof to Red box,stand,smokegrenade,-533.003357,-833.215759,-193.634827,-30.904673,-43.816589
+de_nuke,T Roof to Yard,stand,smokegrenade,-73.96875,-1033.96875,-91.406189,-5.478057,-60.118416
+de_nuke,T Roof to Heaven,stand,smokegrenade,50.070557,-1051.997803,-47.906189,-16.468109,31.109758
+de_nuke,T Roof to Garage,stand,smokegrenade,-363.668243,-1443.45105,-287.906189,-31.120029,-14.295693
+de_nuke,Oustide T to Catwalk corner,stand,smokegrenade,-496.427063,-1644.334961,-415.906189,-42.834888,3.866335
+de_nuke,Trophy to Ramp,run,smokegrenade,251.96875,-449.96875,-415.906189,0.444593,124.861145
+de_nuke,Silo to Secret entrance,stand,smokegrenade,63.064407,-1430.763794,-89.906189,2.540244,-31.097244
+de_nuke,T Roof to Main,stand,smokegrenade,22.190968,-280.017548,-171.906189,-28.149817,-62.744186
+de_nuke,T Roof to Under catwalk,stand,smokegrenade,167.962311,-1181.793823,-155.906189,-66.842072,-11.267667
+de_nuke,T Roof to Heaver corner,stand,smokegrenade,-50.990414,-338.030182,-108.791183,-21.384789,-23.68574
+de_nuke,Outside T to Garage,stand,smokegrenade,-164.092941,-1954.733765,-415.916107,-13.613587,1.278547
+de_nuke,T Roof to Secret,stand,smokegrenade,185.746246,-1261.861572,-85.906189,-57.486801,-46.527817
+de_nuke,T Roof to Heaven (Outside),stand,smokegrenade,167.985001,-1144.008057,-171.906189,-62.865753,30.048834
+de_nuke,Outside T to Yard,run,smokegrenade,-423.996399,-1753.002075,-415.914856,-2.624159,-50.804165
+de_inferno,Smoke CT on B Plant,stand,smokegrenade,416.48,1768.7,128.65,-48.07,65.35
+de_inferno,B Plant 1 (FNATIC),stand,smokegrenade,-79.45,1330.01,106.77,-36.52,66.62
+de_inferno,Minipit,stand,smokegrenade,941.91,415.63,88.53,-51.03,13.23
+de_inferno,Short,stand,smokegrenade,721.26,49.05,94.28,-36.35,55.47
+de_inferno,Deep Long,stand,smokegrenade,941.98,415.87,88.53,-47.68,39.04
+de_inferno,Smoke Construction Retake,stand,smokegrenade,1899.34,2616.9,249.65,-37.61,158.63
+de_inferno,Banana (Logs) to Spools,jump,smokegrenade,-79.448692,1330.03125,106.771469,-11.005769,69.318787
+de_inferno,CT Spawn to B Entrance,stand,smokegrenade,2032.023682,2975.97583,133.090286,-38.131714,-154.727448
+de_inferno,Dark to B Entrance,stand,smokegrenade,151.96875,3063.995117,160.093811,-8.019628,-40.489166
+de_inferno,CT Spawn to B Entrance,stand,smokegrenade,1089.392944,2783.96875,128.093811,1.137642,-145.547897
+de_inferno,C1 to B Entrance,stand,smokegrenade,569.914124,2520.408691,291.093811,28.873955,-28.351013
+de_inferno,C2 to B Entrance,stand,smokegrenade,386.385803,2537.66333,160.093811,-26.500118,-19.823505
+de_inferno,Ruins to Banana,stand,smokegrenade,726.03125,288.680084,96.093811,-43.560978,41.450943
+de_inferno,Pit (Oneway),stand,smokegrenade,2479.990723,-16.03125,98.196304,0.098992,-132.038345
+de_inferno,Car (Oneway),stand,smokegrenade,610.96875,1873.03125,134.252365,11.154097,165.150177
+de_inferno,CT Spawn to T,stand,smokegrenade,2129.03125,1917.96875,128.093811,-46.826851,-121.514229
+de_inferno,Ruins to Banana,stand,smokegrenade,1329.921631,2977.21875,144.343811,-30.755987,-129.919357
+de_inferno,Pit (Oneway),stand,smokegrenade,2643.637207,-337.03125,90.823151,-17.044886,171.898758
+de_inferno,Pit (Oneway),stand,smokegrenade,2631.96875,-16.03125,84.093811,-5.692367,-179.12886
+de_inferno,Arch to Balcony,stand,smokegrenade,1913.227295,1225.96875,174.093811,-46.497322,-87.005005
+de_inferno,Well to Fountain,stand,smokegrenade,1971.687988,2636.702393,128.093811,-39.996227,175.975357
+de_inferno,Balcony (Oneway),stand,smokegrenade,2110.925537,-319.9888,292.093811,-16.187532,130.413361
+de_inferno,Bombsite B to Banana (Deep),stand,smokegrenade,875.96875,2481.443359,145.093811,-23.992226,-125.139305
+de_inferno,Banana (Logs) to CT Spawn,stand,smokegrenade,119.99958,1587.966187,113.307663,-34.798424,56.149929
+de_inferno,2nd Middle to Long,stand,smokegrenade,491.936829,-267.96875,88.093811,-42.024933,45.854645
+de_inferno,Underpass to Short,stand,smokegrenade,295.990173,644.004761,20.093811,-22.455982,-11.856322
+de_inferno,Banana to Spools,stand,smokegrenade,338.871887,1650.802856,122.093811,-50.093639,84.572739
+de_inferno,2nd Middle to Arch,stand,smokegrenade,726.03125,288.680084,96.093811,-43.560978,41.450943
+de_inferno,T Spawn to T,run,smokegrenade,-857.96875,449.902283,-31.604805,-44.401531,1.405892
+de_inferno,2nd Middle to Long,stand,smokegrenade,726.000305,246.549271,91.627228,-30.079454,40.926552
+de_inferno,2nd Middle to Long (Deep),run,smokegrenade,274.681335,-224.627777,88.093811,-41.052132,31.79941
+de_inferno,Banana to CT Spawn,stand,smokegrenade,460.448334,1828.488892,136.177109,-24.519115,62.337608
+de_inferno,Banana to CT Spawn,stand,smokegrenade,361.207794,1795.970947,126.041977,-32.027519,58.743397
+de_inferno,Sandbags to C1,stand,smokegrenade,664.96875,1873.03125,168.093811,-29.140152,136.444611
+de_inferno,2nd Middle to Arch,stand,smokegrenade,726.010803,186.011993,97.527359,-46.349754,45.800774
+de_inferno,Logs to Spools,stand,smokegrenade,110.815239,1569.627441,132.076431,-45.094753,76.556061
+de_inferno,T to Moto,stand,smokegrenade,960.90033,434.006409,88.093811,-49.863846,13.159984
+de_inferno,2nd Middle to Balcony,stand,smokegrenade,693.867432,11.96875,88.315735,-51.134453,-12.082219
+de_inferno,2nd Middle to Truck,stand,smokegrenade,721.03125,393.320099,92.906311,-51.959007,-19.791485
+de_inferno,2nd Middle to Library,stand,smokegrenade,726.006836,333.917542,96.093811,-45.968948,26.172327
+de_inferno,Banana to C1,stand,smokegrenade,460.464905,1828.470825,136.182693,-25.443281,86.280159
+de_inferno,2nd Middle to Short,stand,smokegrenade,790.03125,-302.988647,99.04657,-58.426853,41.080406
+de_inferno,Sandbags to CT Boost,stand,smokegrenade,672.143311,2125.96875,118.072968,-18.860607,69.477432
+de_inferno,2nd Middle to Headshot / Default,stand,smokegrenade,726.03125,294.226654,96.093811,-54.450905,2.337806
+de_inferno,2nd Middle to Short / Default,stand,smokegrenade,697.511902,-242.26181,91.093811,-53.097946,16.442726
+de_inferno,2nd Middle to Boost / Default,stand,smokegrenade,726.048767,246.789902,91.620178,-50.952045,-1.720898
+de_inferno,2nd Middle to Truck / Pit,stand,smokegrenade,726.03125,220.962921,94.029999,-55.24189,-8.699924
+de_inferno,T to Library,stand,smokegrenade,960.156067,434.03125,88.093811,-47.024956,28.967554
+de_inferno,2nd Middle to Pit,stand,smokegrenade,704.160339,11.96875,88.797089,-52.337799,-2.135024
+de_inferno,Cubby to T,stand,flashbang,1291.03125,1186.03125,160.093811,-77.15493,-1.665051
+de_inferno,Close to Middle,stand,flashbang,1517.991821,792.03125,140.016876,-16.91309,-160.268402
+de_inferno,T to Middle,run,flashbang,1314.03125,347.22287,128.46434,-26.450598,-90.553787
+de_inferno,Porch to Banana,stand,flashbang,941.96875,2221.96875,142.46434,-29.420738,-142.099823
+de_inferno,C1 to Banana,stand,flashbang,498.96875,2444.03125,160.093811,1.748943,142.807571
+de_inferno,C1 to Banana,stand,flashbang,498.96875,2444.03125,160.093811,1.748943,142.807571
+de_inferno,Tree to Banana,run,flashbang,1023.965576,2654.03125,133.262314,-9.587554,-0.419661
+de_inferno,Close to Middle,stand,flashbang,1347.063721,829.999756,145.19693,-54.995609,98.37117
+de_inferno,Long to T,stand,flashbang,1721.96875,1012.001038,171.093811,-35.408978,-179.344696
+de_inferno,Arch to Long,stand,flashbang,1762.03125,1447.951416,160.093811,-40.705269,-37.09687
+de_inferno,C1 to Banana,stand,flashbang,498.96875,2444.03125,160.093811,1.9965,166.338852
+de_inferno,Sandbags to Banana,stand,flashbang,610.96875,1873.03125,134.252365,-44.186985,-0.872295
+de_inferno,Close to Middle,stand,flashbang,1487.96875,760.018494,138.93573,-35.937,-164.238937
+de_inferno,Dark to Stairs,stand,flashbang,1121.03125,-367.96875,256.093811,-6.798101,74.801872
+de_inferno,Speedway to Bombsite B,stand,flashbang,1744.03125,2694.496826,160.093811,-2.161512,-100.138107
+de_inferno,Long Hall to Bombsite A,stand,flashbang,1329.03125,-365.989349,256.093811,-29.733957,-22.831499
+de_inferno,2nd Middle to T,stand,flashbang,736.005554,159.9935,99.411682,-28.429869,50.241528
+de_inferno,Banana to Car,stand,flashbang,273.982513,1378.460449,107.093811,-71.196579,151.149689
+de_inferno,Underpass to T,stand,flashbang,272.03125,644.011841,20.093811,-30.67366,0.774419
+de_inferno,CT Apps to T,stand,flashbang,1275.96875,-111.96875,256.093811,9.454458,116.691383
+de_inferno,Ruins to Grill,jump,molotovgrenade,929.176636,3295.995117,144.093811,-45.887463,-131.960571
+de_inferno,Fountain to B Entrance,stand,molotovgrenade,248.001083,2883.03125,160.093811,-19.76786,-44.473083
+de_inferno,Tree to Dark,stand,molotovgrenade,1128.016113,2643.000488,134.560135,-24.899345,154.803116
+de_inferno,CT to C1 / C2,stand,molotovgrenade,1483.84021,2893.96875,129.529922,-16.120533,-162.139648
+de_inferno,Tree to New box,stand,molotovgrenade,1128.000122,2643.03125,134.557571,-23.001171,-178.221207
+de_inferno,B Entrance to New boxes,stand,molotovgrenade,875.998718,2386.237793,145.306152,-17.886372,166.898911
+de_inferno,Sandbags to Spools,stand,molotovgrenade,664.96875,1873.03125,168.093811,-24.272781,96.641022
+de_inferno,2nd Middle to Boiler,stand,molotovgrenade,695.087219,-267.96875,99.093811,-21.53253,32.424114
+de_inferno,Window to Patio Roof,stand,molotovgrenade,894.859619,-56.048077,296.093811,-47.141594,0.826806
+de_inferno,Car to Dark,stand,molotovgrenade,474.21875,2034.300049,203.093811,-20.593023,109.52446
+de_inferno,Banana to C1,jump,molotovgrenade,339.972687,2027.928101,128.093811,-46.366074,69.403351
+de_inferno,Banana to C2,jump,molotovgrenade,409.345978,2009.172729,128.093811,-23.414471,119.236206
+de_inferno,Sandbags to New box,stand,molotovgrenade,999.982422,1878.53064,149.329788,-26.647552,141.132538
+de_inferno,Porch to Dark,run,molotovgrenade,941.959961,2108.010742,140.093811,-22.160713,129.513229
+de_inferno,Banana to CT Boost,stand,molotovgrenade,672.143311,2125.96875,118.072968,-18.860607,69.477432
+de_inferno,Banana to Sandbags,run,molotovgrenade,327.111023,1627.3396,122.093811,-11.122025,56.075432
+de_inferno,T to Patio,run,molotovgrenade,1157.562988,589.96875,122.093811,-13.348514,-43.742046
+de_inferno,Short to Under balcony,stand,molotovgrenade,1764.96875,-108.96875,130.135925,-27.621223,60.546925
